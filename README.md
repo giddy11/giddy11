@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Printf project on C<br>👯 I’m looking to collaborate on the upcoming Printf Project<br>🤝 I’m looking for help with some task on recursion, more malloc(last task to be precise)<br>🌱 I’m currently learning Preprocessor, struct typedef<br>💬 Ask me about anything related to Software engineering<br>⚡ Chess, scrabble, video games
+🔭 I’m currently working on Python Study<br>👯 I’m looking to collaborate on the upcoming Python Projects<br>🤝 /<br>🌱 Python<br>💬 Ask me about anything related to Software engineering<br>⚡ Chess, scrabble, video games
 
 
 ## 🌐 Socials:
